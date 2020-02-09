@@ -2,3 +2,5 @@
 instruction 2: github
 even kijken wat de nieuwe branch doet en of het allemaal werkt
 we shall see
+
+these are some modifications 
